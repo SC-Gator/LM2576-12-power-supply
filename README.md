@@ -2,7 +2,7 @@
 
 A simple DIY switching power supply for Eurorack modular synths. This is an attempt to offer a high power but very cheap option for DIY synth makers.
 
-Requires 15V DC input, recommended 3A. You could use a slighty higher voltage and lower power input, but efficiency will decrease, as well as possible output power. Use higher power at your own risk.
+Requires 15V DC input, recommended 3A. You could use a slighty higher voltage but efficiency will decrease. You can decrease input power, if you think you'll use less than the max rating. Use higher power at your own risk!
 
 Have not been able to test the output power, but could be about: +12V/2000mA, -12V/600mA, 5V/300mA. Could vary a lot, especially as 5V regulator takes power from 12V line. Maybe a future redesign will take power from the input line. Be careful to use components (like the inductors) that can support the load.
 
