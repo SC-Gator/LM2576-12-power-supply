@@ -1,6 +1,6 @@
-# LM2576-12-power-supply
+# LM2576-12 based power supply
 
-A simple DIY switching power supply for Eurorack Modular synths. This is an attempt to offer a high power but very cheap option for DIY synth makers.
+A simple DIY switching power supply for Eurorack modular synths. This is an attempt to offer a high power but very cheap option for DIY synth makers.
 
 Requires 15V DC input, recommended 3A. You could use a slighty higher voltage and lower power input, but efficiency will decrease, as well as possible output power. Use higher power at your own risk.
 
